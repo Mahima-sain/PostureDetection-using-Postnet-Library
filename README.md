@@ -18,3 +18,6 @@ Follow the on-screen instructions to allow access to the camera.
 The model will start detecting and estimating human poses in real-time.
 Contributing 🤝
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+
+LIVE DEMO: http://127.0.0.1:5500/index.html
